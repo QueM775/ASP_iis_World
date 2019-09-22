@@ -75,7 +75,3 @@ Now your local repository should be in sync with the remote one.
 ##### Show all activities in more compact format 
 ```git log --oneline --decorate --graph --all```
 
-
-
-
-
