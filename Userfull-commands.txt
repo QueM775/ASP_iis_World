@@ -1,3 +1,9 @@
 git clone https://github.com/QueM775/ASP_iis_World.git
 
 git status
+
+git add <new-file-name>
+
+git commit -m "Comments to new commit"
+
+git push
