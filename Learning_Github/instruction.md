@@ -49,7 +49,7 @@ add bunch of files
 ```git add 	<file1> <file2> <file3> ...```
 
 add all new files
-```git add . ```
+```git add . ```  <span style="color:red;">what about subfolders, does it include them?</span>
 
 now your new file added to your __local__ repository
 
