@@ -1,2 +1,5 @@
 some test!
 -----------
+2019-09-22@11:42:20 
+Mike: I added these lines in the WEB interface and commited via WEB as well. 
+I did it just to be sure that I can do it.
