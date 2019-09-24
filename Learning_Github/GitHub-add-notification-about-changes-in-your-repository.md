@@ -14,6 +14,12 @@ Automatic watching
 
 [X] Automatically watch teams 
 
+6. Activate this
+
+![Pic](https://github.com/QueM775/ASP_iis_World/blob/master/Learning_Github/Screenshot_2019-09-24%20QueM775%20ASP_iis_World.png)
+
 *Stand by and wait will you get notification after the next file update*
+
+I am not sure about steps 1-5, but step 6 (hopefuly) should work.
 
 [Source](https://help.github.com/en/articles/watching-and-unwatching-repositories)
