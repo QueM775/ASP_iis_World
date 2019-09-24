@@ -13,3 +13,4 @@ Automatic watching
 [X] Automatically watch repositories
 
 [X] Automatically watch teams 
+
