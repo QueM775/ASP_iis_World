@@ -14,3 +14,4 @@ Automatic watching
 
 [X] Automatically watch teams 
 
+*Stand by and wait will you get notification after the next file update*
