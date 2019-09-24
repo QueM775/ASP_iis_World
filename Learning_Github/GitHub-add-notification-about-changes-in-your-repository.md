@@ -1,5 +1,5 @@
 #### Activate notification
-1. Top right corner of you home page (where your avatar photo is)
+1. Top right corner of your home page (where your avatar photo is)
 
 2. Open drop-down menu,
 
