@@ -1,5 +1,3 @@
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 # Useful tips how to use GitHub
 
 ## assumption - you have installed one of GIT client for your operation system.
