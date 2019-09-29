@@ -77,3 +77,9 @@ Now your local repository should be in sync with the remote one.
 
 ##### To sync local copy with web folder
 ```git pull```
+
+### Notification Settings
+Go in to the folder you want to  set up the notification on
+you select settings  on the left is a panel with notificaation 
+select it then add the email addresses you want notified. You 
+can add 2 email addresses with a space between.
